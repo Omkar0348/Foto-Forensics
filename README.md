@@ -11,7 +11,7 @@ Pretrained Model: https://drive.google.com/file/d/1h9qGRLO-tPhwWSLoVju-d8DAzbJU-
 2. Convolutional Neural Networks (CNN)
 
 # Contributors
-Made with <3 by Sourav Jagtap, Girish Bansode, Anant Borse, Suhas Khilari
+Team members Onkar,Suyog,Sahil
 
 # Execution
 Need Python 3.9
